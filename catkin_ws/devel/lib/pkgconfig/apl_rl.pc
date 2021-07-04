@@ -1,0 +1,8 @@
+prefix=/home/apl/catkin_ws2/devel
+
+Name: apl_rl
+Description: Description of apl_rl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy sensor_msgs std_msgs
