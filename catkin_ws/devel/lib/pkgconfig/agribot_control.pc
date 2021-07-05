@@ -1,8 +1,0 @@
-prefix=/home/apl/catkin_ws2/devel
-
-Name: agribot_control
-Description: Description of agribot_control
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

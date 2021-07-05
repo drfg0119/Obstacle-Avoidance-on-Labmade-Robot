@@ -1,8 +1,0 @@
-prefix=/home/apl/catkin_ws2/devel
-
-Name: relative_angle_nb
-Description: Description of relative_angle_nb
-Version: 0.0.0
-Cflags: -I/home/apl/catkin_ws2/devel/include
-Libs: -L${prefix}/lib 
-Requires: std_msgs darknet_ros_msgs cv_bridge sensor_msgs message_runtime
